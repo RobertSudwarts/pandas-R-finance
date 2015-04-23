@@ -1,1 +1,1 @@
-from mod1 import *
+#from mod1 import *
